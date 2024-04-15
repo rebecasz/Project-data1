@@ -1,0 +1,54 @@
+CustomerID,Date,ProductID,ProductName,Category,Price,Quantity,TotalPrice,Country
+1001,2023-01-01,101,Laptop,Electronics,800,1,800,USA
+1002,2023-01-01,102,T-shirt,Clothing,20,2,40,USA
+1003,2023-01-02,103,Smartphone,Electronics,600,1,600,UK
+1004,2023-01-02,104,Headphones,Electronics,50,1,50,Germany
+1005,2023-01-03,105,Coffee Table,Home Decor,200,1,200,France
+1006,2023-01-03,106,Jeans,Clothing,50,1,50,USA
+1007,2023-01-04,107,Smartwatch,Electronics,300,1,300,Canada
+1008,2023-01-04,108,Dress,Clothing,40,1,40,USA
+1009,2023-01-05,109,Camera,Electronics,400,1,400,UK
+1010,2023-01-05,110,Desk Lamp,Home Decor,30,1,30,France
+1011,2023-01-06,111,Sneakers,Clothing,80,1,80,USA
+1012,2023-01-06,112,Tablet,Electronics,250,1,250,Germany
+1013,2023-01-07,113,Sofa,Home Decor,700,1,700,Canada
+1014,2023-01-07,114,Jacket,Clothing,60,1,60,USA
+1015,2023-01-08,115,Watch,Accessories,150,1,150,UK
+1016,2023-01-08,116,Bed Frame,Furniture,800,1,800,France
+1017,2023-01-09,117,Backpack,Accessories,50,1,50,Germany
+1018,2023-01-09,118,Bookshelf,Furniture,120,1,120,USA
+1019,2023-01-10,119,Bluetooth Speaker,Electronics,100,1,100,Canada
+1020,2023-01-10,120,Hoodie,Clothing,40,1,40,UK
+1021,2023-01-11,121,Gaming Console,Electronics,400,1,400,USA
+1022,2023-01-11,122,Sunglasses,Accessories,80,1,80,Germany
+1023,2023-01-12,123,Office Chair,Furniture,150,1,150,UK
+1024,2023-01-12,124,Running Shoes,Clothing,90,1,90,France
+1025,2023-01-13,125,Wireless Mouse,Electronics,20,1,20,Canada
+1026,2023-01-13,126,Scarf,Accessories,25,1,25,USA
+1027,2023-01-14,127,Home Theater System,Electronics,600,1,600,Germany
+1028,2023-01-14,128,Yoga Mat,Sports,35,1,35,UK
+1029,2023-01-15,129,Gaming Mouse,Electronics,50,1,50,France
+1030,2023-01-15,130,Kitchen Knife Set,Kitchenware,60,1,60,USA
+1031,2023-01-16,131,Speaker System,Electronics,120,1,120,Canada
+1032,2023-01-16,132,Watch,Accessories,200,1,200,UK
+1033,2023-01-17,133,Running Shorts,Clothing,30,1,30,Germany
+1034,2023-01-17,134,Blender,Kitchenware,80,1,80,USA
+1035,2023-01-18,135,Wireless Headphones,Electronics,70,1,70,Canada
+1036,2023-01-18,136,Candle Holder,Home Decor,40,1,40,UK
+1037,2023-01-19,137,Desk Lamp,Home Decor,150,1,150,USA
+1038,2023-01-19,138,Smart Home Device,Electronics,25,1,25,Germany
+1039,2023-01-20,139,Cookware Set,Kitchenware,150,1,150,Germany
+1040,2023-01-20,140,Laptop Stand,Electronics,25,1,25,UK
+1041,2023-01-21,141,Wireless Charger,Accessories,30,1,30,France
+1042,2023-01-21,142,Tote Bag,Accessories,45,1,45,Canada
+1043,2023-01-22,143,Vacuum Cleaner,Home,200,1,200,USA
+1044,2023-01-22,144,Water Bottle,Accessories,15,1,15,UK
+1045,2023-01-23,145,Desk Organizer,Office,20,1,20,Germany
+1046,2023-01-23,146,Hair Dryer,Personal Care,40,1,40,France
+1047,2023-01-24,147,Gaming Keyboard,Electronics,80,1,80,Canada
+1048,2023-01-24,148,Sunglasses,Accessories,70,1,70,USA
+1049,2023-01-25,149,Home Decorations,Home Decor,50,1,50,UK
+1050,2023-01-25,150,Portable Speaker,Electronics,100,1,100,France
+1051,2023-01-24,148,Sunglasses,Accessories,70,1,70,
+1052,2023-01-25,149,Home Decorations,Home Decor,50,1,50,
+1053,2023-01-25,150,Portable Speaker,Electronics,100,1,100,
